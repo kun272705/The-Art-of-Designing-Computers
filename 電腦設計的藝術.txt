@@ -1,4 +1,4 @@
-電腦設計的原理
+電腦設計的藝術
 
 第一步是實現計算功能，爲此引入了 ALU、PC、register file、bus 和 main memory。
 
