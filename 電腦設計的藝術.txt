@@ -2,6 +2,6 @@
 
 第一步是實現計算功能，爲此引入了 arithmetic logic unit、program counter、register file、bus 和 main memory。
 
-第二步是實現下行上行，爲此引入了 CPU instructions、CPU interrupts、interrupt vector table 和 interrupt handlers。
+第二步是實現下行上行，爲此引入了 peripheral devices、CPU instructions、CPU interrupts、interrupt vector table 和 interrupt handlers。
 
 第三步是實現并發執行，爲此引入了 timer interrupt、timer interrupt handler 和 process table。
