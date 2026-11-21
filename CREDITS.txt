@@ -1,4 +1,4 @@
 CREDITS
 
-* Computer Systems: A Programmer's Perspective
+1. Computer Systems: A Programmer's Perspective
 
